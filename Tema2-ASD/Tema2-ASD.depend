@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588253608 source:c:\users\stefan\desktop\tema2-asd\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+
